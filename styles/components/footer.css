@@ -2,3 +2,21 @@
     text-decoration:none;
     color:var(--secondary);
 }
+.footer__nav__list{
+    column-count: 2;
+}
+.gr{
+    background-color: black;
+    color: white;
+}
+.lgr{
+    background-color: #696969;
+    color: white;
+}
+.pos{
+    flex: 3;
+    text-align: center;
+}
+.silka{
+    display: flex;
+}
